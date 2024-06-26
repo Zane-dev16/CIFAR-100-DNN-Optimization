@@ -38,13 +38,19 @@ CIFAR-100-DNN-Optimization/
 
 ## Usage guide
 
-1. Install the required packages:
+1. Install git lfs:
 
 ```bash
-pip install -r requirements.txt
+git lfs install
 ```
 
-2. Each notebook corresponds to a specific stage in the repository. However, you can run the notebooks in any order as required.
+2. Install the required packages:
+
+```bash
+git clone https://github.com/Zane-dev16/CIFAR-100-DNN-Optimization.git
+```
+
+3. Each notebook corresponds to a specific stage in the repository. However, you can run the notebooks in any order as required.
 
 ## Bibliography
 
