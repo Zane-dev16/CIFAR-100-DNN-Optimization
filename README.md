@@ -45,3 +45,11 @@ pip install -r requirements.txt
 ```
 
 2. Each notebook corresponds to a specific stage in the repository. However, you can run the notebooks in any order as required.
+
+## Bibliography
+
+- Aurélien Géron. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. 3rd Edition. O'Reilly Media, 2022.
+
+- CIFAR-100 Dataset
+
+- TensorFlow and Keras documentation
