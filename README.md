@@ -21,3 +21,17 @@ CIFAR-100-DNN-Optimization/
 ├── LICENSE
 └── requirements.txt
 ```
+
+### Directory Structure Overview
+
+1. **data/**: Contains the CIFAR-100 dataset files.
+
+2. **notebooks/**: Jupyter notebooks for each stage of the analysis and training.
+    - **dnn_problems.ipynb**: Notebook covering challenges such as vanishing/exploding gradients and dead ReLU neurons.
+    - **optimizers_and_lr_scheduling.ipynb**: Notebook for optimizer analysis and learning rate scheduling experiments.
+    - **dnn_regularization.ipynb**: Notebook focusing on regularization and dropout techniques.
+    - **transfer_learning.ipynb**: Notebook for transfer learning from CIFAR-100 to CIFAR-10.
+3. **models/**: All saved models throughout the notebooks
+4. **README.md**: Readme file providing an overview of the repository.
+5. **LICENSE**: License file for the repository.
+6. **requirements.txt**: File listing dependencies for the project.
