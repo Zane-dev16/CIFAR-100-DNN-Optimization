@@ -35,3 +35,13 @@ CIFAR-100-DNN-Optimization/
 4. **README.md**: Readme file providing an overview of the repository.
 5. **LICENSE**: License file for the repository.
 6. **requirements.txt**: File listing dependencies for the project.
+
+## Usage guide
+
+1. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Each notebook corresponds to a specific stage in the repository. However, you can run the notebooks in any order as required.
