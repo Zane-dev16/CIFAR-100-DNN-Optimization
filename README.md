@@ -24,7 +24,7 @@ CIFAR-100-DNN-Optimization/
 
 ### Directory Structure Overview
 
-1. **data/**: Contains the CIFAR-100 dataset files.
+1. **data/**: Contains the CIFAR-100 and CIFAR-10 dataset files.
 
 2. **notebooks/**: Jupyter notebooks for each stage of the analysis and training.
     - **dnn_problems.ipynb**: Notebook covering challenges such as vanishing/exploding gradients and dead ReLU neurons.
